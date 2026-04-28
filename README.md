@@ -89,30 +89,18 @@ A mini evaluation system where I test multiple versions of a prompt on the same 
 ---
 
 ## 📊 Skills at a Glance
-Prompt Engineering   ██████████████████░░  90%
-Python               ████████████████░░░░  80%
-RAG Systems          ████████████████░░░░  80%
-LLM Evaluation       ███████████████░░░░░  75%
-SQL                  ██████████████░░░░░░  70%
-HTML and CSS         ██████████████░░░░░░  70%
-C and C++            █████████████░░░░░░░  65%
----
 
-## 📂 Repo Structure
-prompt-engineering-portfolio/
-│
-├── 01-prompt-techniques-showcase/
-│   ├── prompts/
-│   ├── outputs/
-│   └── analysis.md
-│
-├── 02-prompt-evaluation-framework/
-│   ├── eval_rubric.md
-│   ├── prompts/
-│   └── results/
-│
-└── README.md
----
+| Skill | Level | |
+|---|---|---|
+| Prompt Engineering | ████████████████████ | 90% |
+| Python | ████████████████░░░░ | 80% |
+| RAG Systems | ████████████████░░░░ | 80% |
+| LLM Evaluation | ███████████████░░░░░ | 75% |
+| SQL | ██████████████░░░░░░ | 70% |
+| HTML and CSS | ██████████████░░░░░░ | 70% |
+| C and C++ | █████████████░░░░░░░ | 65% |
+
+
 
 ## 📬 Let's Connect
 
